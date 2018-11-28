@@ -7,7 +7,9 @@ Below are the Manual Test cases for the overlapping date ranges
 1. Happy path scenarios -
 
 (01-01-2018, 20-01-2018)
+
 (30-01-2018, 02-02-2018)
+
 (10-10-2018, 24-11-2018)
 
 (01-01-2018, 28-02-2018)

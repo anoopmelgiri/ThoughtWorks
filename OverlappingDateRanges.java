@@ -1,7 +1,3 @@
-import java.text.ParseException;
-import java.text.SimpleDateFormat;
-import java.util.*; 
-
 class DateRange {
 	Date startDate;
 	Date endDate;
